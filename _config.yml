@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Measuring the Impact of Curatorial Actions (MICA)
+title: MICA@UMICH
 email: micaproject@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  MICA is a three-year project to study the impacts of curatorial actions led by ICPSR at the University of Michigan.
+  MICA is a research initiative at ICPSR and the University of Michigan studying the impacts of curatorial actions on digital collections.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ICPSR
+github_username:  casmlab
 
 # Build settings
 theme: minima

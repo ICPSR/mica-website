@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**Goals**
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+1. Understand how to responsibly allocate resources to data archiving
+2. Articulate data archiving policies that efficiently and effectively achieve funders’ and journals’ innovation and transparency goals
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Phases**
+
+[Identifying curatorial actions](https://www.icpsr.umich.edu/web/pages/datamanagement/) | [Measuring impacts of curation](https://www.icpsr.umich.edu/web/pages/ICPSR/citations/) | [Developing curatorial metrics](https://www.icpsr.umich.edu/web/pages/DSDR/metrics.html)
 
 
 [jekyll-organization]: https://github.com/jekyll
