@@ -3,6 +3,7 @@ layout: page
 title: Outputs
 permalink: /outputs/
 ---
+![outputs](assets/outputs.jpg)
 
 **Presentations**
 

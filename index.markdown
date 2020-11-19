@@ -5,22 +5,17 @@
 layout: home
 ---
 
-**Measuring the Impact of Curatorial Actions**
-
-What is the **value** of sharing research data? How does curation impact data **discovery** and **reuse**?
-
 ![background](assets/background.jpg)
 
-**Funding**
+## Measuring the Impact of Curatorial Actions
 
-![nsf](assets/nsf.png) 		
-[Developing Evidence-based Data Sharing and Archiving Policies](https://nsf.gov/awardsearch/showAward?AWD_ID=1930645&HistoricalAwards=false)
+**What is the value of sharing research data? How does curation impact data discovery and reuse?**
 
-![nsf](assets/imls.jpg)
-[Measuring and Improving the Efficacy of Curation Activities in Data Archives](https://www.imls.gov/grants/awarded/lg-37-19-0134-19)
+MICA, or “Measuring and Improving the Efficacy of Curation Activities in Data Archives” is a three-year National Digital Infrastructures and Initiatives project led by investigators at the [University of Michigan School of Information](https://www.si.umich.edu/) in partnership with the [Inter-university Consortium for Political and Social Research](https://www.icpsr.umich.edu/icpsrweb/). This project studies how curatorial actions impact the use of digital collections by: 1) identifying curatorial actions; 2) measuring the impacts of curation; and 3) developing curatorial metrics.
 
-**Collaborators**
 
-![icpsr](assets/icpsr.png)
 
-![nsf](assets/umsi.png)
+**Goals**
+
+1. Understand how to responsibly allocate resources to data archiving
+2. Articulate data archiving policies that efficiently and effectively achieve funders’ and journals’ innovation and transparency goals

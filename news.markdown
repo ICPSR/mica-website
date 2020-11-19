@@ -3,6 +3,7 @@ layout: page
 title: News
 permalink: /news/
 ---
+![news](assets/news.jpg)
 
 **2020**
 
