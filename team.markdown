@@ -17,6 +17,12 @@ permalink: /team/
 
 [Elizabeth Yakel](http://www.si.umich.edu/people/elizabeth-yakel) is a Professor and Associate Dean for Academic Affairs in UMSI.
 
+[Elizabeth Moss]() is a Senior Associate Librarian at ICPSR.
+
+[David Bleckley]() is a Data Project Manager at ICPSR.
+
+[Faye Polasek]() is a researcher in the School of Information.
+
 [Sara Lafia](http://saralafia.com/) is a Postdoctoral Research Fellow at ICPSR.
 
 **Funding**
