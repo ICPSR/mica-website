@@ -15,7 +15,9 @@ Hemphill, L. (2019) [What Difference Does Curation Make? Introducing MICA: Measu
 
 **Posters**
 
-Lafia, S. (2020) [Supporting Interdisciplinary Research Reviews with Multi-Level Topic Maps](https://app.careerfairplus.com/um_mi/fair/3147/employer/257007). Online. November 10.
+Lafia, S.,  Thomer, A., Hemphill, L., Akmon, D., Bleckley, D., Pienta, A., Yakel, E. (2021). [How Does Data Curation Impact Discovery?](https://esip.figshare.com/) ESIP Winter Meeting. Online. January 27.
+
+Lafia, S. (2020) [Supporting Interdisciplinary Research Reviews with Multi-Level Topic Maps](https://app.careerfairplus.com/um_mi/fair/3147/employer/257007). MIDAS - Michigan Institute for Data Science Symposium. Online. November 10.
 
 Akmon, D., Lafia, S., Thomer, A., Hemphill, L., Pienta, A., Yakel, E., Bleckley, D., & Tyler, A. (2020) [Measuring and Improving the Efficacy of Curation Activities in Data Archives](https://indd.adobe.com/view/ddd8f267-5eb2-4e32-991e-3bf726b955fa) Research Data Alliance Plenary. Online. November 9.
 
