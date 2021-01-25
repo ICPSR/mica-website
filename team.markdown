@@ -21,9 +21,11 @@ permalink: /team/
 
 [David Bleckley]() is a Data Project Manager at ICPSR.
 
-[Faye Polasek]() is a researcher in the School of Information.
-
 [Sara Lafia](http://saralafia.com/) is a Postdoctoral Research Fellow at ICPSR.
+
+[Jeremy York]() is a Graduate Student Research Assistant in the School of Information.
+
+[Faye Polasek]() is an Undergraduate Student Research Assistant in the School of Information.
 
 **Funding**
 
