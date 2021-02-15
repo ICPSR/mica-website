@@ -7,7 +7,7 @@ permalink: /outputs/
 
 **Publications**
 
-Lafia, S., Kuhn, W., Caylor, K., & Hemphill, L. (in press). [Mapping Research Topics at Multiple Levels of Detail.](https://doi.org/10.31223/osf.io/523ex) Patterns.
+Lafia, S., Kuhn, W., Caylor, K., & Hemphill, L. (2021). [Mapping Research Topics at Multiple Levels of Detail.](https://www.cell.com/patterns/fulltext/S2666-3899(21)00020-9#%20) *Patterns*, 100210.
 
 **Presentations**
 
