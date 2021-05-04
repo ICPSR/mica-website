@@ -5,6 +5,10 @@ permalink: /outputs/
 ---
 ![outputs](assets/outputs.jpg)
 
+**Preprints**
+
+Lafia, S., Thomer, A., Bleckley, D., Akmon, D., & Hemphill, L. (2021). [Leveraging Machine Learning to Detect Data Curation Activities.](https://arxiv.org/abs/2105.00030) arXiv:2105.00030.
+
 **Publications**
 
 Lafia, S., Kuhn, W., Caylor, K., & Hemphill, L. (2021). [Mapping Research Topics at Multiple Levels of Detail.](https://www.cell.com/patterns/fulltext/S2666-3899(21)00020-9#%20) *Patterns*, 100210.
