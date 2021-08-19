@@ -3,17 +3,22 @@ layout: page
 title: Outputs
 permalink: /outputs/
 ---
-![outputs](assets/outputs.jpg)
 
 **Preprints**
 
-Lafia, S., Thomer, A., Bleckley, D., Akmon, D., & Hemphill, L. (2021). [Leveraging Machine Learning to Detect Data Curation Activities.](https://arxiv.org/abs/2105.00030) arXiv:2105.00030.
+Lafia, S., Ko, J. W., Moss, E., Kim, J., Thomer, A., & Hemphill, L. (2021). [Detecting Informal Data References in Academic Literature.](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/168392/Detecting_Informal_Data_Refs.pdf)
+
+Hemphill, L., Pienta, A., Lafia, S., Akmon, D., & Bleckley, D. (2021). [How do properties of data, their curation, and their funding relate to reuse?.](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/168212/Hemphill%20et%20al%20Data%20downloads.pdf)
 
 **Publications**
+
+Lafia, S., Thomer, A., Bleckley, D., Akmon, D., & Hemphill, L. (in press). [Leveraging Machine Learning to Detect Data Curation Activities.](https://arxiv.org/abs/2105.00030) arXiv:2105.00030.
 
 Lafia, S., Kuhn, W., Caylor, K., & Hemphill, L. (2021). [Mapping Research Topics at Multiple Levels of Detail.](https://www.cell.com/patterns/fulltext/S2666-3899(21)00020-9#%20) *Patterns*, 100210.
 
 **Presentations**
+
+Lafia, S., Thomer, A., Bleckley, D., Akmon, D., & Hemphill, L. (2021). [Analyzing Data Curation Work at a Social Science Archive with Machine Learning.](https://www.oerc.ox.ac.uk/events/websci21-workshop-on-research-infrastructure-for-web-science-ri4websci/) RI4WebSci Workshop: Online. 	
 
 Lafia, S. (2020). [LIBER Webinar: Measuring the Impacts of Curatorial Actions on Research Data Reuse at ICPSR.](http://doi.org/10.5281/zenodo.4302283) LIBER Europe Webinar Series. Online.
 

@@ -6,7 +6,7 @@ permalink: /news/
 ![news](assets/news.jpg)
 
 **2021**
-* [Article published in Patterns](https://www.cell.com/patterns/fulltext/S2666-3899(21)00020-9#%20)Sara Lafia and Libby Hemphill co-author an article on mapping research topics to support institutional reviews
+* [Kaggle Competition](https://www.kaggle.com/saralafia): Sara Lafia, Libby Hemphill, Andrea Thomer and colleagues contribute a top 45% solution to the Coleridge Initiative's Show US the Data competition
 
 **2020**
 
