@@ -4,7 +4,7 @@ title: Team
 permalink: /team/
 ---
 
-**Personnel**
+**Personnel (current)**
 
 [Libby Hemphill](https://www.icpsr.umich.edu/icpsrweb/content/about/staff-profile.html?node=1742) is an Associate Professor in the School of Information and Director of the Resource Center for Minority Data at ICPSR
 
@@ -16,15 +16,23 @@ permalink: /team/
 
 [Elizabeth Yakel](http://www.si.umich.edu/people/elizabeth-yakel) is a Professor and Associate Dean for Academic Affairs in UMSI.
 
-[Elizabeth Moss]() is a Senior Associate Librarian at ICPSR.
+[Elizabeth Moss](https://www.rd-alliance.org/users/elizabeth-moss) is a Senior Associate Librarian at ICPSR.
 
-[David Bleckley]() is a Data Project Manager at ICPSR.
+[David Bleckley](https://mcommunity.umich.edu/#profile:dbleckle) is a Senior Project Manager at ICPSR.
 
 [Sara Lafia](http://saralafia.com/) is a Postdoctoral Research Fellow at ICPSR.
 
-[Jeremy York]() is a Graduate Student Research Assistant in the School of Information.
+[Lizhou Fan](https://www.si.umich.edu/people/lizhou-fan) is a Graduate Student Research Assistant in the School of Information.
 
-[Faye Polasek]() is an Undergraduate Student Research Assistant in the School of Information.
+[Morgan Wofford](https://www.si.umich.edu/people/morgan-wofford) is a Graduate Student Research Assistant in the School of Information.
+
+[Katherine Polasek](https://mcommunity.umich.edu/person/polasek) was an Undergraduate Student Research Assistant in the School of Information.
+
+**Personnel (former)**
+
+[Jeremy York](https://mcommunity.umich.edu/person/jjyork) was a Graduate Student Research Assistant in the School of Information.
+
+[Faye Polasek](https://mcommunity.umich.edu/person/fpolasek) was an Undergraduate Student Research Assistant in the School of Information.
 
 **Funding**
 
